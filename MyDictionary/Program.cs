@@ -10,11 +10,6 @@ namespace MyDictionary
             //List<string> ar = new List<string>();
             MyList<string> ars = new MyList<string>();
             ars.Add("tt");
-            foreach (string arss in ars)
-            {
-                Console.WriteLine(arss);
-            }
-            
         }
     }
 }
